@@ -1,0 +1,10 @@
+# NFL Video Timestamp Generator - Working Version Requirements
+numpy>=1.21.0
+requests>=2.25.0
+
+# Optional but highly recommended for better scene detection
+scenedetect>=0.6.0  # Install with: pip install scenedetect
+
+# Alternative scene detection (choose one)
+# opencv-python>=4.5.0  # For advanced computer vision
+# imageio-ffmpeg>=0.4.0  # For FFmpeg integration
